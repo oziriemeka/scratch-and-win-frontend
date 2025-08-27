@@ -1,0 +1,1 @@
+run e.g node src/views/Play/Test/testWinsAndLoses.ts to run test
